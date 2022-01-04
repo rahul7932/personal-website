@@ -20,7 +20,7 @@ function About() {
           />
           <div className="AboutBio">
             Hello! My name is <strong>Rahul Kumar</strong> I'm a currently studying Computer Science, Economics, and Entrepreneurship
-            at UC Berkeley and I intend to graduate in Spring 2024. I'm passionate about product management, application development, 
+            at UC Berkeley with an indented graduation date of Spring 2024. I'm passionate about product management, application development, 
             machine learning, and start ups. In summer 2021, I worked as a product management intern at AskWhai where I helped identify new markets for product deployment
             and improve existing products. I'm currently looking to work as a product management intern this summer.
           </div>
