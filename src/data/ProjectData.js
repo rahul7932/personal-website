@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/rahul7932/personal-website/master/images/flappy.png",
+    img: "https://raw.githubusercontent.com/rahul7932/website/master/images/flappy.png",
     title: "Flappy Bird",
     description: "Built Flappy Bird replica with dynamic scoring.",
     tech_stack: "HTML, CSS, Javascript",
