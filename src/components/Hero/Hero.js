@@ -30,10 +30,10 @@ function Hero() {
             </p>
           </HeroLeft>
           <HeroRight>
-            {/* <Image
-              src="https://avatars.githubusercontent.com/u/52119279?s=400&u=4d4e8b33221cd2ca22ee989068942e624cc4703d&v=4"
+            <Image
+              src="https://raw.githubusercontent.com/rahul7932/website/master/src/Assets/pfp.png"
               alt="man-svgrepo"
-            /> */}
+            />
           </HeroRight>
         </HeroWrapper>
         <ScrollDown to="projects">
