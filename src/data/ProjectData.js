@@ -5,7 +5,6 @@ export const ProjectList = [
     title: "Flappy Bird",
     description: "Built Flappy Bird replica with dynamic scoring.",
     tech_stack: "HTML, CSS, Javascript",
-    github_url: "https://github.com/rahul7932/flappy_bird",
     demo_url: "https://github.com/rahul7932/flappy_bird",
   },
   {
@@ -14,24 +13,22 @@ export const ProjectList = [
     description:
       "Full-stack developed a centralized donation platform for the Northern VA community.",
     tech_stack: "Flutter, Firebase",
-    github_url: "https://github.com/rahul7932/Gively",
-    demo_url: "https://your_project_demo_link",
+    demo_url: "https://github.com/rahul7932/Gively",
   },
   {
     img: "https://raw.githubusercontent.com/rahul7932/website/master/images/coronanet.png",
     title: "CoronaNet",
-    description: "Published deep-learning research paper for automated COVID-19 detection using CT scans.",
+    description: "Published deep-learning research paper for automated COVID-19 diagnosis using CT scans with > 90% accuracy.",
     tech_stack: "Python, Keras, CUDA",
     demo_url: "https://www.jsr.org/hs/index.php/path/article/view/1246",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "Ecommerce website",
+    img: "https://raw.githubusercontent.com/rahul7932/website/master/images/burnnet.png",
+    title: "BurnNet",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "Developed novel deep learning architecture for skin burn classification and ",
+    tech_stack: "Python, Keras, CUDA",
+    demo_url: "https://github.com/rahul7932/BurnNet",
   },
 ];
 
