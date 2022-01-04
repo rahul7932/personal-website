@@ -5,7 +5,7 @@ import logo from './logo.png';
 const Header = ({ toggle }) => {
   return (
     <div className="Container">
-      <Nav>()
+      <Nav>
         <Logo to="/">
           <img
             src={logo}
