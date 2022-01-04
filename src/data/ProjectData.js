@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://github.com/rahul7932/flappy_bird",
   },
   {
-    img: "https://raw.githubusercontent.com/rahul7932/website/47b0e16326c9c1e507bb8e51de03140e571d8d07/images/gively.svg",
+    img: "https://raw.githubusercontent.com/rahul7932/website/master/images/gively.png",
     title: "Gively",
     description:
       "Full-stack developed a centralized donation platform for the Northern VA community.",
@@ -18,7 +18,7 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/rahul7932/personal-website/master/images/coronanet.png",
+    img: "https://raw.githubusercontent.com/rahul7932/website/master/images/coronanet.png",
     title: "CoronaNet",
     description: "Published deep-learning research paper for automated COVID-19 detection using CT scans.",
     tech_stack: "Python, Keras, CUDA",
