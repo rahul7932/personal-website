@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://github.com/rahul7932/flappy_bird",
   },
   {
-    img: "https://raw.githubusercontent.com/rahul7932/personal-website/master/images/gively.jpeg",
+    img: "https://raw.githubusercontent.com/rahul7932/website/47b0e16326c9c1e507bb8e51de03140e571d8d07/images/gively.svg",
     title: "Gively",
     description:
       "Full-stack developed a centralized donation platform for the Northern VA community.",
