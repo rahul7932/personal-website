@@ -7,7 +7,7 @@ function Projects() {
         height="10%"
         width="100%"
         id="svg"
-        viewBox="0 0 1440 400"
+        viewBox="0 0 1440 100"
         xmlns="http://www.w3.org/2000/svg"
         class="transition duration-300 ease-in-out delay-150"
       >

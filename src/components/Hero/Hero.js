@@ -36,16 +36,16 @@ function Hero() {
             />
           </HeroRight>
         </HeroWrapper>
-        <ScrollDown to="projects">
-          <ScrollLink>
-            Scroll down
-            <img
-              src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/scroll-down.svg"
-              alt="scroll-down"
-            />
-          </ScrollLink>
-        </ScrollDown>
       </HeroContainer>
+      <svg
+        height="10%"
+        width="100%"
+        id="svg"
+        viewBox="0 0 1440 50"
+        xmlns="http://www.w3.org/2000/svg"
+        class="transition duration-300 ease-in-out delay-150"
+      >
+      </svg>
     </main>
   );
 }
