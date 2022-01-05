@@ -8,11 +8,11 @@ const Header = ({ toggle }) => {
       <Nav>
        
         <NavMenu>
-          <NavLink className="menu-item" to="projects" smooth={false}>
-            Projects
-          </NavLink>
           <NavLink className="menu-item" to="about" smooth={false}>
             About
+          </NavLink>
+          <NavLink className="menu-item" to="projects" smooth={false}>
+            Projects
           </NavLink>
           <NavLink className="menu-item" to="contact" smooth={false}>
             Contact

@@ -26,7 +26,7 @@ export const ProjectList = [
     img: "https://raw.githubusercontent.com/rahul7932/website/master/images/burnnet.png",
     title: "BurnNet",
     description:
-      "Developed novel deep learning architecture for skin burn classification and ",
+      "Developed novel deep learning architecture for skin burn classification and achieved ~99% accuracy.",
     tech_stack: "Python, Keras, CUDA",
     demo_url: "https://github.com/rahul7932/BurnNet",
   },
